@@ -33,8 +33,8 @@ Justin Harrington
 **Solution:** Develop a Powershell script to stand up a new domain controller for the acquisition's network, with an automated population of users and OUs based on the organizational chart. Build a secure site-to-site VPN tunnel with at least one alteration compared to what was done in class, such as using a different router and VPN protocol. Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials, to provide network access control with a healthy level of AAA security management.
 
 #### Documentation 
-<a href=""><img align="left" src="https://img.shields.io/badge/Repo-PREP DOCS-2CB084" alt="Prep Documentation | GitHub Repo" width="150px"/></a>
-<a href=""><img align="left" src="https://img.shields.io/badge/Repo-SOPs-2CB084" alt="SOPs | GitHub Repo" width="105px"/></a>
-<a href=""><img align="left" src="https://img.shields.io/badge/Repo-SCRIPTS-2CB084" alt="Automation Scripts | GitHub Repo" width="135px"/></a>
+<a href="https://github.com/Full-Mesh/PREP-DOCS"><img align="left" src="https://img.shields.io/badge/Repo-PREP DOCS-2CB084" alt="Prep Documentation | GitHub Repo" width="150px"/></a>
+<a href="https://github.com/Full-Mesh/SOPs"><img align="left" src="https://img.shields.io/badge/Repo-SOPs-2CB084" alt="SOPs | GitHub Repo" width="105px"/></a>
+<a href="https://github.com/Full-Mesh/SCRIPTS"><img align="left" src="https://img.shields.io/badge/Repo-SCRIPTS-2CB084" alt="Automation Scripts | GitHub Repo" width="135px"/></a>
 
 <!--- This README template was created by Connie Uribe, she is amazing and helped me create this for my group --->
