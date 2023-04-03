@@ -27,7 +27,9 @@ Spencer Mitchell
 Justin Harrington
 </br>
 </br>
+
 **Problem Domain:** Updating the IT infrastructure of a recently acquired startup to align with the rest of GlobeX's holdings. The existing intranet cannot be directly integrated, so a new infrastructure needs to be built.
+
 **Our Solution:** Develop a Powershell script to stand up a new domain controller for the acquisition's network, with an automated population of users and OUs based on the organizational chart. Build a secure site-to-site VPN tunnel with at least one alteration compared to what was done in class, such as using a different router and VPN protocol. Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials, to provide network access control with a healthy level of AAA security management.
 #### Prep Work and Documentation
 <a href=""><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a>
