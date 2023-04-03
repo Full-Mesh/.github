@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/Full-Mesh/.github/blob/main/profile/FULLMESH.png"  width="40%" height="40%">
   <h1>
-  Welcome to our team project
+  Welcome to Full Mesh
   </h1>
 </div>
 
@@ -30,38 +30,10 @@ Justin Harrington
 
 **Problem Domain:** Updating the IT infrastructure of a recently acquired startup to align with the rest of GlobeX's holdings. The existing intranet cannot be directly integrated, so a new infrastructure needs to be built.
 
-**Our Solution:** Develop a Powershell script to stand up a new domain controller for the acquisition's network, with an automated population of users and OUs based on the organizational chart. Build a secure site-to-site VPN tunnel with at least one alteration compared to what was done in class, such as using a different router and VPN protocol. Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials, to provide network access control with a healthy level of AAA security management.
+**Solution:** Develop a Powershell script to stand up a new domain controller for the acquisition's network, with an automated population of users and OUs based on the organizational chart. Build a secure site-to-site VPN tunnel with at least one alteration compared to what was done in class, such as using a different router and VPN protocol. Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials, to provide network access control with a healthy level of AAA security management.
 
-#### Prep Work and Documentation
-<a href=""><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a>
-<a href=""><img align="left" src="https://img.shields.io/badge/Repo-jESC SOP-white" alt="SOPs | GitHub Repo" width="150px"/></a>
-<a href=""><img align="left" src="https://img.shields.io/badge/Repo-Scripts-white" alt="Automation Scripts | GitHub Repo" width="130px"/></a>
-<!--
-Sufficient documentation in the top level README to explain to a stranger who you are, what this project was about, and how all of the material in the repo pertains to it.
-This README should be:
-Include links to relevant files in the repo
-Include links to each of your own Github accounts AND LinkedIn accounts
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
-$\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
-$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
-$\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
-$\mathscr{\color{red}{mon}\color{white}{day}}$
-$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
-$\textit{hello}$  #italic
-$\text{hello}$    #normal
-$\Large{hello}$$   #Bigger text size
-$$\LaTeX$$
-**Here are some ideas to get you started:**
-:woman-raising-hand: A short introduction - what is your organization all about?
-:rainbow: Contribution guidelines - how can the community get involved?
-:female-technologist: Useful resources - where can the community find your docs? Is there anything else the community should know?
-:popcorn: Fun facts - what does your team eat for breakfast?
-:mage: Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Documentation 
+<a href=""><img align="left" src="https://img.shields.io/badge/Repo-PREP DOCS-2CB084" alt="Prep Documentation | GitHub Repo" width="150px"/></a>
+<a href=""><img align="left" src="https://img.shields.io/badge/Repo-SOPs-2CB084" alt="SOPs | GitHub Repo" width="105px"/></a>
+<a href=""><img align="left" src="https://img.shields.io/badge/Repo-SCRIPTS-2CB084" alt="Automation Scripts | GitHub Repo" width="135px"/></a>
+
