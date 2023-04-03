@@ -4,7 +4,9 @@
   Welcome to our team project
   </h1>
 </div>
+
 ### :handshake: Connect with us:
+
 <a href="https://www.linkedin.com/in/paulstroud312/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Paul | LinkedIn" width="100px"/></a>
 <a href="http://github.com/paulstroud2023"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Paul | Github" width="100px"/></a>
 Paul Stroud
