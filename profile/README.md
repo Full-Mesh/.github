@@ -37,3 +37,4 @@ Justin Harrington
 <a href=""><img align="left" src="https://img.shields.io/badge/Repo-SOPs-2CB084" alt="SOPs | GitHub Repo" width="105px"/></a>
 <a href=""><img align="left" src="https://img.shields.io/badge/Repo-SCRIPTS-2CB084" alt="Automation Scripts | GitHub Repo" width="135px"/></a>
 
+<!--- This README template was created by Connie Uribe, she is amazing and helped me create this for my group --->
