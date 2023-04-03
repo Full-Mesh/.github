@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Full-Mesh/.github/blob/main/profile/FULLMESH.png"  width="40%" height="40%">
+  <img src="https://github.com/Full-Mesh/.github/blob/main/profile/Green%20Black%20Modern%20C%20Letter%20Networks%20Logo.png"  width="40%" height="40%">
   <h1>
   Welcome to Full Mesh
   </h1>
