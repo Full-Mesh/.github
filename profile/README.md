@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/jESC-Solutions/.github/blob/main/profile/logo-no-background.png"  width="40%" height="40%">
+  <img src="https://github.com/Full-Mesh/.github/blob/main/profile/FULLMESH.png"  width="40%" height="40%">
   <h1>
   Welcome to our team project
   </h1>
