@@ -5,6 +5,8 @@
   </h1>
 </div>
 
+Our group, Full Mesh, was tasked with a project scenario. Our goal was to build the solution within a week. This is our oganizational github we used to accomplish that task. 
+
 ### :handshake: Connect with us:
 
 <a href="https://www.linkedin.com/in/paulstroud312/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Paul | LinkedIn" width="100px"/></a>
