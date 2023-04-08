@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-Our group, Full Mesh, was tasked with a project scenario. Our goal was to build the solution within a week. This is our oganizational github we used to accomplish that task. 
+Our group, Full Mesh, was tasked with a project scenario. Our goal was to build the solution within a week. This is our organizational github we used to accomplish that task. 
 
 ### :handshake: Connect with us:
 
@@ -30,7 +30,11 @@ Justin Harrington
 </br>
 </br>
 
-**Problem Domain:** Updating the IT infrastructure of a recently acquired startup to align with the rest of GlobeX's holdings. The existing intranet cannot be directly integrated, so a new infrastructure needs to be built.
+
+**[Presentation video](https://youtu.be/JYITfPviK8A)**
+
+
+**Problem Domain:** Updating the IT infrastructure of a recently acquired startup to align with the rest of GlobeX's holdings. The existing intranet cannot be directly integrated, so new infrastructure needs to be built.
 
 **Solution:** Develop a Powershell script to stand up a new domain controller for the acquisition's network, with an automated population of users and OUs based on the organizational chart. Build a secure site-to-site VPN tunnel with at least one alteration compared to what was done in class, such as using a different router and VPN protocol. Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials, to provide network access control with a healthy level of AAA security management.
 
