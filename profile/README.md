@@ -30,8 +30,8 @@ Justin Harrington
 </br>
 </br>
 
-<a href="https://youtu.be/JYITfPviK8A"><img align="left" src="https://img.shields.io/badge/YouTube - Presentation -CC3333" alt="YouTube Final Presentation" width="150px"/></a>
-**Our Presentation of this Project**
+## <a href="https://youtu.be/JYITfPviK8A"><img align="left" src="https://img.shields.io/badge/YouTube - Presentation Video -CC3333" alt="YouTube Final Presentation" width="150px"/></a><br>
+
 
 
 **Problem Domain:** Updating the IT infrastructure of a recently acquired startup to align with the rest of GlobeX's holdings. The existing intranet cannot be directly integrated, so new infrastructure needs to be built.
